@@ -4,7 +4,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import Link from 'next/link';
 import {
-  Navbar, Container, Nav, 
+  Navbar, Container, Nav,
 } from 'react-bootstrap';
 
 export default function NavBar() {
